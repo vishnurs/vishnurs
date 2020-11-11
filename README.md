@@ -1,7 +1,13 @@
 ### Hello World! 👋
 
+#### Personal projects
 
-- [Pathfinding Algorithms](https://vishnurs.github.io/pathfinding-algorithms/)
+- [Pathfinding Algorithms Visualizer](https://vishnurs.github.io/pathfinding-algorithms/)
+- [Lazy - A standalone javascript library to lazy load images](https://github.com/vishnurs/lazy)
+- [Goweather - A cli utility to get the weather information of a place](https://github.com/vishnurs/goweather)
+- [ngx-tbl Angular 5 table component](https://github.com/vishnurs/ngx-tbl)
+- [GCounter - A simple chrome extension to find how many times you Google a day (Outdated)](https://github.com/vishnurs/GCounter)
+
 
 <!--
 **vishnurs/vishnurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
