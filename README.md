@@ -1,11 +1,30 @@
 ### Hello World! 👋
 
+```
+package vishnu
+
+type About struct {}
+
+func (About) getSkills() []string{
+	return []string{"Javascript", "Typescript", "NodeJS", "Angular", "Vue", "Golang", "Python"}
+}
+
+func (About) getTitle() string {
+	return "Senior Software Engineer"
+}
+
+func (About) getFullName() string {
+	return "Vishnu Sureshkumar"
+}
+
+```
+
 #### Personal projects
 
 - [Pathfinding Algorithms Visualizer](https://vishnurs.github.io/pathfinding-algorithms/)
 - [Lazy - A standalone javascript library to lazy load images](https://github.com/vishnurs/lazy)
 - [Goweather - A cli utility to get the weather information of a place](https://github.com/vishnurs/goweather)
-- [ngx-tbl Angular 5 table component](https://github.com/vishnurs/ngx-tbl)
+- [ngx-tbl - Angular 5 table component](https://github.com/vishnurs/ngx-tbl)
 - [GCounter - A simple chrome extension to find how many times you Google a day (Outdated)](https://github.com/vishnurs/GCounter)
 
 
